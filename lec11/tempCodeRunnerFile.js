@@ -1,0 +1,1 @@
+const id = Number(req.params.id);

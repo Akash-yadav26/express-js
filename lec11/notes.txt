@@ -1,0 +1,11 @@
+rest api
+task we have to perform
+GET/api/users - List all users
+GET/api/ users/1- Get the users with ID 1
+GET/api/users/2 - GET the users with ID 2
+dynamic path parameters
+Get/api/users/:id
+:id --> variable or dynamic
+POST/api/users - create new users
+PATCH /api/ users/1- edit the users with ID 1
+DELETE /api/ users/1 - Delete the users with ID 1
